@@ -10,10 +10,19 @@
 - 김기범 : CV 모델 개발, LLM 모델 개발, Raslberry Pi 모듈 개발
 -  조원진 : CV 모델 개발, LLM 모델 개발,  UI검증
 - 정용재 : 키오스크 GUI 개발, 프로젝트 기획및 문서 작성, AI모델 검증
-## 🖥️ 동작 화면
 
 
 <br/>
+
+## 📃프로젝트 일정
+![인프라 구조](01아이디어제안및기획단계/프로젝트기획및설계파트/이미지자료/프로젝트간트차트.png)
+
+<br/>
+
+
+## 🖥️ 동작 화면
+
+
 
 <br/>
 
@@ -23,7 +32,7 @@
 
 ### Back-End
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-![](https://img.shields.io/badge/Chat GPT4-6DB33F?style=flat&logo=OpenAI&logoColor=white)
+![](https://img.shields.io/badge/ChatGPT4-6DB33F?style=flat&logo=OpenAI&logoColor=white)
 ![](https://img.shields.io/badge/Openvino-4479A1?style=flat&logo=Openvino&logoColor=white)
 
 - Language : Python, C++
@@ -33,13 +42,13 @@
 <br/>
 
 
-## ⚙️ 인프라 구조
-### Back-End
-
-<br/>
-
-## 💾 ERD
-
+## ⚙️ 프로젝트 구조
+### Use Case
+![인프라 구조](01아이디어제안및기획단계/프로젝트기획및설계파트/이미지자료/04_2조_Use_Case_Diagram.png)
+### 순서도
+![인프라 구조](01아이디어제안및기획단계/프로젝트기획및설계파트/이미지자료/05_2조_순서도.png)
+### 사용자 인터페이스(왼쪽: 기존 GUI| 오른쪽 : 고령자 지원 GUI)
+![인프라 구조](01아이디어제안및기획단계/프로젝트기획및설계파트/이미지자료/06_2조_UI_Demo.png)
 
 <br/>
 
@@ -48,21 +57,3 @@
 <br/>
 
 ## 🗂️ WIKI 문서
-### 🤝 협업 전략
-- [그라운드 룰](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%A3%B0)
-- [커밋 컨밴션](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B0%B4%EC%85%98)
-- [브랜치 전략](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5)
-
-### 🔥 Trouble Shooting
-- [Infra](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/Infra)
-- [SQL](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/SQL)
-- [React](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/React)
-- [Spring Boot](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/SpringBoot)
-- [Git](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/Git)
-- [API](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/API)
-
-### 💾 DB
-- [ERD](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/ERD)
-- [Scheme](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/Scheme)
-- [INSERT 쿼리](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/INSERT-%EC%BF%BC%EB%A6%AC)
-- [테이블 데이터](https://github.com/codesquad-gwanaksan/kiosk-max/wiki/%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8D%B0%EC%9D%B4%ED%84%B0)
