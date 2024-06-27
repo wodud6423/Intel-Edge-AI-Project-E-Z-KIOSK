@@ -1,0 +1,11 @@
+2024-06-26 11:08:44,734 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Wheelchair'}
+2024-06-26 11:08:45,505 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Wheelchair'}
+2024-06-26 11:08:46,544 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Wheelchair'}
+2024-06-26 11:08:47,573 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Wheelchair'}
+2024-06-26 11:08:48,608 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Wheelchair'}
+2024-06-26 11:08:57,705 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Blind'}
+2024-06-26 11:08:58,737 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Blind'}
+2024-06-26 11:08:59,774 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Blind'}
+2024-06-26 11:09:00,808 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Blind'}
+2024-06-26 11:09:01,808 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Blind'}
+2024-06-26 11:09:02,806 - INFO - Sent: {'message_type': 'client_classification', 'value': 'Blind'}
