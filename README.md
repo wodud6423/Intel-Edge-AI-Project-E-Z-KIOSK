@@ -61,7 +61,8 @@
 <br/>
 
 ## 📃프로젝트 일정
-![인프라 구조](01아이디어제안및기획단계/프로젝트기획및설계파트/이미지자료/프로젝트간트차트.png)
+![Screenshot from 2024-07-03 14-09-12](https://github.com/wodud6423/Intel-Edge-AI-Project-E-Z-KIOSK/assets/165994180/d60f78d9-1d4e-4868-a7b8-3c125e16e836)
+
 ![]()
 <br/>
 
@@ -116,11 +117,17 @@
 
 # ⚙️ 프로젝트 구조
 ### 순서도
-![인프라 구조](01아이디어제안및기획단계/프로젝트기획및설계파트/이미지자료/05_2조_순서도.png)
+![Screenshot from 2024-07-03 09-49-38](https://github.com/wodud6423/Intel-Edge-AI-Project-E-Z-KIOSK/assets/165994180/0d7ae934-8d8a-4571-9ca2-0f46fc737710)
+
 ### 전체 구조도 ver1
-![전체 구조도 ver1 drawio](https://github.com/wodud6423/Intel-Edge-AI-/assets/165994180/8ed37ad3-1918-4116-97ed-445eef6dbed2)
-### 사용자 인터페이스(왼쪽: 기존 GUI| 오른쪽 : 고령자 지원 GUI)
-![인프라 구조](01아이디어제안및기획단계/프로젝트기획및설계파트/이미지자료/06_2조_UI_Demo.png)
+![Screenshot from 2024-07-03 14-15-51](https://github.com/wodud6423/Intel-Edge-AI-Project-E-Z-KIOSK/assets/165994180/7c272405-29b3-4b34-8887-1a8d6530b657)
+
+### 기술 스택
+![Screenshot from 2024-07-03 09-53-36](https://github.com/wodud6423/Intel-Edge-AI-Project-E-Z-KIOSK/assets/165994180/a96628b1-cc05-4687-be19-0e45ddabc163)
+
+### 사용자 인터페이스
+![Screenshot from 2024-07-03 09-55-35](https://github.com/wodud6423/Intel-Edge-AI-Project-E-Z-KIOSK/assets/165994180/ef73aecb-bd9d-4e48-8f42-b10a52970c43)
+
 
 <br/>
 
