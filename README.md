@@ -1,19 +1,24 @@
-# E-Z Kiosk
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=100&pause=1000&color=1832F7&background=C6CBFFA4&center=true&vCenter=true&repeat=false&random=false&width=1200&height=200&lines=Intel+Edge+AI+Project)](https://git.io/typing-svg)
 
-누군가에게는 어려운 키오스크를 누구나 쉽게 사용하는 키오스크로
-
-## 프로젝트명
-**E-Z Kiosk**
+<br/>
 
 
 <br/>
 
+
+# 🎯프로젝트명
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gugi&size=30&pause=1000&color=F72E2E&background=FFEE3500&center=true&vCenter=true&repeat=false&random=false&width=1000&height=60&lines=+%EC%89%BD%EA%B3%A0+%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C+%EC%82%AC%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C+%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&size=100&pause=1000&color=F5F767&background=FF1414A4&center=true&vCenter=true&repeat=false&random=false&width=1200&height=200&lines=E-Z+KIOSK)](https://git.io/typing-svg)
+
+<br/>
+
 # 💡 프로젝트 기대효과
-1. 고령자와 장애인의 키오스크 사용 경험 개선
-2. 소상공인들의 수익성 개선
-3. AI 모델 개발 경험
-4. UI 및 C++ 개발 경험
-5. Raspberry Pi 개발 경험
+### 🙋사용자 친화적 인터페이스: 
+- 고령자와 장애인의 신체적, 인지적 요구를 반영한 인터페이스로 사용 편의성이 높아집니다.
+- 다양한 기능 제공: 의료, 금융, 공공 서비스 등 다양한 기능을 제공하여 일상 생활의 편의를 도모합니다.
+
+### 2. 소상공인들의 수익성 개
+### 
 
 <br/>
 
@@ -31,8 +36,8 @@
 <br/>
 
 # 🍔 프로젝트 개요
-- 2024 Intel Edge AI SW(4기)에서 진행한 "카페 키오스크"를 구현하는 그룹 프로젝트 
-- 미션 기간: `2024-06-19 ~ 2024-07-02`
+## - 2024 Intel Edge AI SW(4기)에서 진행한 "카페 키오스크"를 구현하는 그룹 프로젝트 
+## - 미션 기간: `2024-06-19 ~ 2024-07-02`
 
 
 <br/>
@@ -78,13 +83,13 @@
 <br/>
 
 
-## 🖥️ 동작 화면
+# 🖥️ 시연 영상
 
 
 
 <br/>
 
-## 🔧️ 개발 환경
+# 🔧️ 개발 환경
 ### Front-End
 <a href="https://www.qt.io/ko-kr/"><img src="https://img.shields.io/badge/QT-41CD52?style=flat-square&logo=QT&logoColor=white"/></a>
 
@@ -100,7 +105,7 @@
 <br/>
 
 
-## ⚙️ 프로젝트 구조
+# ⚙️ 프로젝트 구조
 ### Use Case
 ![인프라 구조](01아이디어제안및기획단계/프로젝트기획및설계파트/이미지자료/04_2조_Use_Case_Diagram.png)
 ### 순서도
@@ -113,8 +118,11 @@
 <br/>
 
 
-## 🌎 API 명세서
+# 🌎 API 명세서
 
 <br/>
 
-## 🗂️ WIKI 문서
+# 프로젝트 평가 & 의견
+### 3. AI 모델 개발 경험
+### 4. UI 및 C++ 개발 경험
+### 5. Raspberry Pi 개발 경험
