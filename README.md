@@ -36,6 +36,12 @@
 
 - 키오스크가 두려운 ‘고령층’…디지털 격차 해소 대책은? (유튜브 뉴스영상) - https://www.youtube.com/watch?v=u_UqKOiXRtA
 
+- 키오스크 장애인 편의 제공 의무화 정부 검토(2024년04월02일) - https://www.newspim.com/news/view/20240402000175
+
+![Project Img](img/프로젝트시장조사01.png)
+
+![Project Img](img/프로젝트시장조사02.png)
+
 
 # 💡 프로젝트 기대효과
 ### 🙋 사용자 친화적 인터페이스: 
