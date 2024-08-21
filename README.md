@@ -101,6 +101,13 @@
 ![Screenshot from 2024-07-03 09-55-35](https://github.com/wodud6423/Intel-Edge-AI-Project-E-Z-KIOSK/assets/165994180/ef73aecb-bd9d-4e48-8f42-b10a52970c43)
 
 
+# 🙂프로젝트 자체 평가의견
+
+### 📑자체 완성도 평가
+
+
+
+
 <br/>
 
 
