@@ -71,16 +71,6 @@
 3. 시제품 제작 및 테스트
 4. 보고서, PPT 작성
 
-
-<br/>
-
-
-# 🖥️ 시연 영상
-
-
-
-<br/>
-
 # 🔧️ 개발 환경
 ### Front-End
 <a href="https://www.qt.io/ko-kr/"><img src="https://img.shields.io/badge/QT-41CD52?style=flat-square&logo=QT&logoColor=white"/></a>
