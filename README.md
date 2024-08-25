@@ -66,8 +66,8 @@
 
 # 🧑🏻‍💻팀원 소개
 - 염재영 : 프로젝트 관리, UI디자인, Raspberry Pi 모듈 개발
-- 김기범 : CV 모델 개발, LLM 모델 개발, Raslberry Pi 모듈 개발
-- 조원진 : CV 모델 개발, LLM 모델 개발,  UI검증
+- 김기범 : CV 모델 개발, LLM 모델 개발, UI검증
+- 조원진 : CV 모델 개발, LLM 모델 개발, Raslberry Pi 모듈 개발 
 - 정용재 : 키오스크 GUI 개발, 프로젝트 기획및 문서 작성, AI모델 검증
 
 <br/>
